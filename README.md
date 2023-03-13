@@ -22,3 +22,6 @@ Glitch Blade - Netherite & Diamond Sword
 Excalibur - Netherite & Diamond Sword
 Rich Guy Totem - Totem of Undying
 Silky - Netherite & Diamond Pickaxe 
+
+More to be added in future.
+Up to date as of 1.3.2
