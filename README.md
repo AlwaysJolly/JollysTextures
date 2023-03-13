@@ -44,5 +44,9 @@ Rich Guy Totem - Totem of Undying
 
 Silky - Netherite & Diamond Pickaxe 
 
+Fresca - Totem of Undying
+
+Pedro Pascal - Totem of Undying
+
 More to be added in future.
 Up to date as of 1.3.2
