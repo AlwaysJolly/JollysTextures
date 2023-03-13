@@ -48,7 +48,9 @@ Fresca - Totem of Undying
 
 Pedro Pascal - Totem of Undying
 
-Lollipop - Totem of Undying
+Swirly - Totem of Undying
+
+Switch - Totem of Undying
 
 More to be added in future.
 Up to date as of 1.3.4
