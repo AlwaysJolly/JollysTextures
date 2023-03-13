@@ -8,7 +8,7 @@ A Full list of Item Names and the Item Required is below:
 
 "The Axe that cut through Yggdrasil" - Netherite Axe
 
-Poseiden's Fury - Trident
+Poseidon's Fury - Trident
 
 Nectar - Golden Carrot
 
