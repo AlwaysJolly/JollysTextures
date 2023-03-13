@@ -1,5 +1,5 @@
 # JollysTextures
-The Notables community resource pack
+The Notables community resource pack,
 A Full list of Item Names and the Item Required is below:
 "The Last Sword at the end of the World" - Netherite Sword
 "The Pickaxe that Split the World in Two" - Netherite Pickaxe
