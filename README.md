@@ -52,5 +52,13 @@ Swirly - Totem of Undying
 
 Switch - Totem of Undying
 
+Axolototem - Totem of Undying
+
+Top Hat - Carved Pumpkin
+
+Lord's Crown - Carved Pumpkin
+
+Akuma - Netherite & Diamond Sword
+
 More to be added in future.
 Up to date as of 1.3.4
