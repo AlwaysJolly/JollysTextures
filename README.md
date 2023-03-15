@@ -63,4 +63,4 @@ Akuma - Netherite & Diamond Sword - (VW-Assets)
 Blood Diamond - Diamond
 
 More to be added in future.
-Up to date as of 1.3.4
+Up to date as of 1.4
