@@ -60,5 +60,7 @@ Lord's Crown - Carved Pumpkin - (VW-Assets)
 
 Akuma - Netherite & Diamond Sword - (VW-Assets)
 
+Blood Diamond - Diamond
+
 More to be added in future.
 Up to date as of 1.3.4
