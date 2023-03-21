@@ -62,7 +62,7 @@ Akuma - Netherite & Diamond Sword - (VW-Assets)
 
 Blood Diamond - Diamond
 
-Milkshake - Totem of Undying
+Milkshake - Totem of Undying & Golden Carrot
 
 More to be added in future.
 Up to date as of 1.4
