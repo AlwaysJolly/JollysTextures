@@ -66,5 +66,7 @@ Milkshake - Totem of Undying & Golden Carrot
 
 Ocean Fucker - Totem of Undying
 
+Red Flag & Blue Flag - Totem of Undying & Carved Pumpkin
+
 More to be added in future.
 Up to date as of 1.4
