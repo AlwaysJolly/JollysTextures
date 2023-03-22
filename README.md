@@ -64,5 +64,7 @@ Blood Diamond - Diamond
 
 Milkshake - Totem of Undying & Golden Carrot
 
+Ocean Fucker - Totem of Undying
+
 More to be added in future.
 Up to date as of 1.4
