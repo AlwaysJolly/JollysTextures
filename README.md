@@ -72,5 +72,7 @@ Don't Fear The Reaper - Netherite & Diamond Sword
 
 Scythe of the Unholy Alliance - Netherite & Diamond Sword
 
+HyatTotem - Totem of Undying
+
 More to be added in future.
 Up to date as of 1.4
