@@ -68,5 +68,9 @@ Ocean Fucker - Totem of Undying
 
 Red Flag & Blue Flag - Totem of Undying & Carved Pumpkin
 
+Don't Fear The Reaper - Netherite & Diamond Sword
+
+Scythe of the Unholy Alliance - Netherite & Diamond Sword
+
 More to be added in future.
 Up to date as of 1.4
