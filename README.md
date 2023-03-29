@@ -76,5 +76,7 @@ HyatTotem - Totem of Undying
 
 Deagle - Bow
 
+Bullet - Arrow
+
 More to be added in future.
 Up to date as of 1.4.4
