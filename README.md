@@ -74,5 +74,7 @@ Scythe of the Unholy Alliance - Netherite & Diamond Sword
 
 HyatTotem - Totem of Undying
 
+Deagle - Bow
+
 More to be added in future.
 Up to date as of 1.4.4
