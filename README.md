@@ -1,5 +1,8 @@
 # JollysTextures
 The Notables community resource pack,
+
+OptiFine is required for the pack to function, when installing make sure that the file inside of your resource packs folder contains the pack.png file, and not a second Jolly's Textures file, if inside is a second Jolly's Textures file, move that one to the Resource Pack folder and delete the first one.
+
 A Full list of Item Names and the Item Required is below:
 
 "The Last Sword at the end of the World" - Netherite Sword
