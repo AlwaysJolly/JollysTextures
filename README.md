@@ -81,5 +81,13 @@ Deagle - Bow
 
 Bullet - Arrow
 
+Sun - Golden Carrot
+
+Moon - Golden Carrot
+
+Tormentor's Scythe - Netherite & Diammond Sword
+
+Terra Blade - Netherite & Diamond Sword
+
 More to be added in future.
 Up to date as of 1.4.4
