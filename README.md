@@ -1,5 +1,6 @@
 # JollysTextures
 
+
 -- Almost all the data listed here is outdated. 
 
 -- There is no complete list of every item name.
@@ -11,6 +12,8 @@
 -- Not all models were made by me, credits to Crafty73 for the Roxanne Wolf Plush totem.
 
 -- Written Books (that are name based) no longer function AT ALL.
+
+-- If you would like the download for the Showcase World that has all custom items, DM me on Discord (@JollySpider) otherwise just search through the pack files.
 
 
 The Notables community resource pack,
