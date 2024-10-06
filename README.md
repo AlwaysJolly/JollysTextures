@@ -1,4 +1,12 @@
 # JollysTextures
+
+-- Almost all the data listed here is outdated. 
+-- There is no complete list of every item name.
+-- Latest Update (v1.7) was built for Minecraft Version 1.21.
+-- CIT RESEWN (https://modrinth.com/mod/cit-resewn) is required for the pack to function.
+-- Not all models were made by me, credits to Crafty73 for the Roxanne Wolf Plush totem.
+-- Written Books (that are name based) no longer function AT ALL.
+
 The Notables community resource pack,
 
 OptiFine is required for the pack to function, when installing make sure that the file inside of your resource packs folder contains the pack.png file, and not a second Jolly's Textures file, if inside is a second Jolly's Textures file, move that one to the Resource Pack folder and delete the first one. The Resource Pack was built for 1.19.2,
