@@ -13,7 +13,7 @@
 
 -- Written Books (that are name based) no longer function AT ALL.
 
--- If you would like the download for the Showcase World that has all custom items, DM me on Discord (@JollySpider) otherwise just search through the pack files.
+-- If you would like the download for the Showcase World that has all custom items, DM me on Discord (@JollySpider) otherwise just search through the pack files or use the book command.
 
 
 The Notables community resource pack,
