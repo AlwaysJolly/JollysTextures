@@ -5,7 +5,7 @@
 
 -- There is no complete list of every item name.
 
--- Latest Update (v1.7) was built for Minecraft Version 1.21.
+-- The Latest Update (v1.7.1) was built for Minecraft Version 1.21.
 
 -- CIT RESEWN (https://modrinth.com/mod/cit-resewn) is required for the pack to function.
 
