@@ -3,7 +3,7 @@
 
 -- Almost all the data listed here is outdated. 
 
--- There is no complete list of every item name.
+-- For a Complete List of Every Item, Run The Jolly's Textures Book Command in a Command Block.
 
 -- The Latest Update (v1.7.1) was built for Minecraft Version 1.21.
 
